@@ -28,7 +28,7 @@ SECRET_KEY = '^%xnl67urts$su=kx^%n(y*7qsl-s)80071#ab+!0)g)t!(fze'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['brenobr.pythonanywhere.com',]
 
 
 # Application definition
